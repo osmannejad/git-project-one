@@ -16,3 +16,12 @@ background-color: black;
 color: red;
 box-sizing: border-box;
 }
+
+main {
+
+width: 100%;
+padding: 50px;
+background-color: black;
+color: red;
+box-sizing: border-box;
+}
