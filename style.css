@@ -25,3 +25,13 @@ background-color: black;
 color: red;
 box-sizing: border-box;
 }
+
+
+footer {
+
+ width: 100%;
+ padding: 200px;
+ background-color: saddlebrown;
+ color: whitesmoke;
+box-sizing: border-box;
+}
